@@ -10,7 +10,7 @@
 
 ## Instalación
 
-1. **Descargar la APK**: [Descarga la última versión](https://github.com/tu-repositorio/temp-mail-noad/releases) desde la sección de lanzamientos.
+1. **Descargar la APK**: [Descarga la última versión aquí](https://github.com/23DEVV/temp-mail.apk-mod-NoAd-/releases/download/TempMailPro/Temp.Mail.mod.apk).
 2. **Habilitar orígenes desconocidos**: Asegúrate de tener habilitada la opción de instalar aplicaciones desde fuentes desconocidas en tu dispositivo.
 3. **Instalar la APK**: Ubica el archivo descargado en tu dispositivo y selecciónalo para iniciar la instalación.
 4. **Abrir la aplicación**: Una vez instalada, abre **Temp Mail (NoAd)** desde el menú de aplicaciones.
